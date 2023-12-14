@@ -1,3 +1,3 @@
 # Install all dep
-pip install python-opencv
-pipp install pyqt5
+pip install python-opencv /
+pip install pyqt5
