@@ -1,5 +1,5 @@
 # Functional programming
-
+My solutions for FP in SPbU
 ## Read all ReadMe in projects folders
 laba 1 - images converter  
 laba 2 - map, filter and reduce functions  
