@@ -8,7 +8,7 @@ import time
 
 
 
-bot = telebot.TeleBot('6707362187:AAFFKmg4z6ag6ZSTWvdmitCdlR6Fc5ixqxs')
+bot = telebot.TeleBot('token')
 tasks = {}
 times = []
 
