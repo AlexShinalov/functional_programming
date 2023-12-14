@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bba3d0d-5323-4095-9bdd-2ac340f254ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/practicum_1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/practicum_1/analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_11.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/10_9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/3.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/4.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/5.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/6.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/7.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/8.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/logs/9.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/1 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/10 (out)_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/2 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/4 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/5 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/6 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/7 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/8 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_1/processed_images/9 (out).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_2/calculation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_2/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_2/report2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practicum_2/stats.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YUk6GoS7GxycyeNkxRBEalDemL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/snw12/PycharmProjects/FP-1/fp-3",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\snw12\PycharmProjects\functional-programming\practicum_1\big" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bba3d0d-5323-4095-9bdd-2ac340f254ec" name="Changes" comment="" />
+      <created>1700587368156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700587368156</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/practicum_1/analysis.py</url>
+          <line>180</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
