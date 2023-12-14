@@ -3,7 +3,7 @@ from main import get_user_reminders, get_user_tasks,delete_user_reminders, delet
 
 import telebot
 import time
-bot = telebot.TeleBot('6707362187:AAFFKmg4z6ag6ZSTWvdmitCdlR6Fc5ixqxs')
+bot = telebot.TeleBot('token')
 
 def send_daily_tasks():
     times = get_user_reminders()
